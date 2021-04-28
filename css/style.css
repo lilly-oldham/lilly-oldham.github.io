@@ -15,7 +15,7 @@ body {
 
 /* Navbar */
 .header {
-    background-color: #c5ffff;
+    background-color: #7e7e7e;
     padding: 20px 10px;
 }
 
@@ -36,7 +36,7 @@ body {
 
 .header a:hover {
     background-color: #f1f1f1;
-    color: #4f1f1f;
+    color: #b4ddff;
 }
 
 .header-right {
